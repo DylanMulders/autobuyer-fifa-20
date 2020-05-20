@@ -2,7 +2,7 @@
 // @name         FUT20 Autobuyer Menu
 // @namespace    http://tampermonkey.net/
 // @version      0.6
-// @updateURL    https://github.com/oRastor/fut20-web-app/raw/master/menu.user.js
+// @updateURL    https://github.com/DylanMulders/autobuyer-fifa-20/blob/master/menu.user.js
 // @description  try to take over the world!
 // @author       Rastor
 // @match        https://www.easports.com/uk/fifa/ultimate-team/web-app/*
